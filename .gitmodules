@@ -1,3 +1,9 @@
 [submodule "Ractjs_functional_component_eventHandling"]
 	path = Ractjs_functional_component_eventHandling
 	url = https://github.com/manojap/Ractjs_functional_component_eventHandling
+[submodule "Reactjs_class_functionalComp_communication"]
+	path = Reactjs_class_functionalComp_communication
+	url = https://github.com/manojap/Reactjs_class_functionalComp_communication
+[submodule "Reactjs-class_component_eventHandling"]
+	path = Reactjs-class_component_eventHandling
+	url = https://github.com/manojap/Reactjs-class_component_eventHandling
