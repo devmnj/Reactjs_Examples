@@ -7,3 +7,6 @@
 [submodule "Reactjs-class_component_eventHandling"]
 	path = Reactjs-class_component_eventHandling
 	url = https://github.com/manojap/Reactjs-class_component_eventHandling
+[submodule "useStateHook"]
+	path = useStateHook
+	url = https://github.com/manojap/ueState-Hook-in-React
