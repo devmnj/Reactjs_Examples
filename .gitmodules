@@ -10,6 +10,6 @@
 [submodule "useState-Hook-in-React"]
 	path = useState-Hook-in-React
 	url = https://github.com/manojap/useState-Hook-in-React
-[submodule "Reactfragments"]
-	path = Reactfragments
-	url = https://github.com/manojap/Reactfragments
+[submodule "loginfromComponent"]
+	path = loginformComponent
+	url = https://github.com/manojap/loginformComponent
