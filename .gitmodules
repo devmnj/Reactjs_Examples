@@ -11,5 +11,4 @@
 	path = useState-Hook-in-React
 	url = https://github.com/manojap/useState-Hook-in-React
 [submodule "loginfromComponent"]
-	path = loginformComponent
 	url = https://github.com/manojap/loginformComponent
