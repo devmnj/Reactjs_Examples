@@ -19,3 +19,9 @@
 [submodule "callback_ref"]
 	path = callback_ref
 	url = https://github.com/manojap/callback_ref
+[submodule "Reactfragments"]
+	path = Reactfragments
+	url = https://github.com/manojap/Reactfragments
+[submodule "React_Fragment"]
+	path = React_Fragment
+	url = https://github.com/manojap/Reactfragments
