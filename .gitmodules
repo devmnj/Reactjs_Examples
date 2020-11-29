@@ -13,3 +13,6 @@
 [submodule "React_ref"]
 	path = React_ref
 	url = https://github.com/manojap/React_ref
+[submodule "loginForm_component"]
+	path = loginForm_component
+	url = https://github.com/manojap/loginformComponent
